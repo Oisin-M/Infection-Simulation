@@ -2,4 +2,4 @@
 
 See the html files for further details, and you can download the animated predictions as an mp4 file.
 
-<img src="https://i.imgur.com/fy3udyO.png">
+<img src="https://i.imgur.com/d5CuVz4.png">
